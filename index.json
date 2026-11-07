@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "intent-aware-lfqa",
+  "versions": [
+    {
+      "commit": "7c75aa23937ad717390ffd36de2e5e965d9a3127",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:59:39.758127+00:00"
+    }
+  ]
+}
