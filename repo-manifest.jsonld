@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/intent-aware-lfqa/commit/7c75aa23937ad717390ffd36de2e5e965d9a3127",
       "git:hexsha": "7c75aa23937ad717390ffd36de2e5e965d9a3127",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T20:59:39.735874+00:00"
     }
   ]
 }
